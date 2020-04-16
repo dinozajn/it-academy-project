@@ -1,0 +1,11 @@
+MORE IMPORTANT
+1. Finish "Dlaczego EasySchool?" section
+2. "numbers" section
+3. "Cennik" section
+4. Footer
+
+LESS IMPORTANT
+1. Set correct icons in "Co zyskasz z EasySchool?" section (icon.scss)
+   fix colors of 3rd and 4th icon (feature-tile.scss)
+   
+2. Change icons of buttons where these are invalid

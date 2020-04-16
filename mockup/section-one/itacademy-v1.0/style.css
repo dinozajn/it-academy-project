@@ -1,0 +1,153 @@
+@font-face {
+  font-family: 'itacademy';
+  src:  url('fonts/itacademy.eot?81an2l');
+  src:  url('fonts/itacademy.eot?81an2l#iefix') format('embedded-opentype'),
+    url('fonts/itacademy.ttf?81an2l') format('truetype'),
+    url('fonts/itacademy.woff?81an2l') format('woff'),
+    url('fonts/itacademy.svg?81an2l#itacademy') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+.itaca {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'itacademy' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.itaca-hands:before {
+  content: "\e900";
+}
+.itaca-team:before {
+  content: "\e901";
+}
+.itaca-idea:before {
+  content: "\e902";
+}
+.itaca-seminar:before {
+  content: "\e903";
+}
+.itaca-messenger:before {
+  content: "\e904";
+}
+.itaca-twitter:before {
+  content: "\e905";
+}
+.itaca-youtube:before {
+  content: "\e906";
+}
+.itaca-linkedin:before {
+  content: "\e907";
+}
+.itaca-facebook:before {
+  content: "\e908";
+}
+.itaca-instagram:before {
+  content: "\e909";
+}
+.itaca-whatsapp:before {
+  content: "\e90a";
+}
+.itaca-remote:before {
+  content: "\e90b";
+}
+.itaca-open-email:before {
+  content: "\e90c";
+}
+.itaca-like:before {
+  content: "\e90d";
+}
+.itaca-testing:before {
+  content: "\e90e";
+}
+.itaca-play-button:before {
+  content: "\e90f";
+}
+.itaca-photo-camera:before {
+  content: "\e910";
+}
+.itaca-video-camera:before {
+  content: "\e911";
+}
+.itaca-medal:before {
+  content: "\e912";
+}
+.itaca-mortarboard:before {
+  content: "\e913";
+}
+.itaca-diploma:before {
+  content: "\e914";
+}
+.itaca-portfolio:before {
+  content: "\e915";
+}
+.itaca-physics:before {
+  content: "\e916";
+}
+.itaca-brain:before {
+  content: "\e917";
+}
+.itaca-test:before {
+  content: "\e918";
+}
+.itaca-alarm-clock:before {
+  content: "\e919";
+}
+.itaca-bell:before {
+  content: "\e91a";
+}
+.itaca-hours:before {
+  content: "\e91b";
+}
+.itaca-picture:before {
+  content: "\e91c";
+}
+.itaca-email:before {
+  content: "\e91d";
+}
+.itaca-phone-call:before {
+  content: "\e91e";
+}
+.itaca-pin:before {
+  content: "\e91f";
+}
+.itaca-eye:before {
+  content: "\e920";
+}
+.itaca-edit:before {
+  content: "\e921";
+}
+.itaca-copy:before {
+  content: "\e922";
+}
+.itaca-add-user:before {
+  content: "\e923";
+}
+.itaca-bank:before {
+  content: "\e924";
+}
+.itaca-bubble-speak:before {
+  content: "\e925";
+}
+.itaca-save:before {
+  content: "\e926";
+}
+.itaca-calendar:before {
+  content: "\e927";
+}
+.itaca-touch-screen:before {
+  content: "\e928";
+}
+.itaca-form:before {
+  content: "\e929";
+}
